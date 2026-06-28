@@ -76,9 +76,8 @@ Senior Software Developer specializing in full-stack web applications, system de
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sansentest&theme=algolia&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sansentest&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
-
 
 ---
 
