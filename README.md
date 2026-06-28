@@ -68,7 +68,7 @@ Senior Software Developer specializing in full-stack web applications, system de
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sansentest&theme=tokyonight" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Senior Software Developer specializing in full-stack web applications, system de
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sansentest&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
